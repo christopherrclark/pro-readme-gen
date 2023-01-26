@@ -80,7 +80,7 @@ inquirer
 
   ## Table of Contents
   - [Usage](#usage)
-  - [License](#license) ${liscenseBadge}
+  - [License](#license) 
   - [Contributing](#contributing)
   - [Tests](#tests)
   - [Questions](#questions)

@@ -1,11 +1,11 @@
 
-  # asdfgsd
+  # Professional README Application
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
 
-  asdfsd
+  This is an application that generates professional readme files.
 
   ## Table of Contents
   - [Usage](#usage)
@@ -17,11 +17,11 @@
 
   ## Intallation
 
-  dvsrv
+  Install this application.
 
   ## Usage
 
-  asdfvsrf
+  This application is used to create professional README files.
 
   ## License
 
@@ -29,21 +29,21 @@
 
   ## Contributing
 
-  asvrsv
+  Give me money.
 
   ## Tests
 
-  avrvr
+  Dummy tests.
 
   ## Questions
   If you have any questions feel free to contact me through the links below.
 
   ### Github:
 
-  [My GitHub](advadsv)
+  [My GitHub](https://github.com/christopherrclark)
 
   ### Email:
 
-  [My Email](mailto:adfsvdsfv)
+  [My Email](mailto:christopherrclark@gmail.com)
   
   
