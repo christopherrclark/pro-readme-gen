@@ -8,6 +8,8 @@ The goal of this assignment is to use the command-line application to generate a
 
 [Click here to watch a video demonstrating the Professional README Generator.](https://drive.google.com/file/d/1ZMR6dTEOdGhajvGUwZGizIDoQ792xv-S/view)
 
+[Click here to view a sample README created by the generator.](professionalReadme.md)
+
 
 ![Click here is a screen shot of my Professional README Generator](./assets/pro-readme-screenshot.png)
 
